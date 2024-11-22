@@ -1,3 +1,5 @@
+Link to research paper for this project-  https://www.ijfmr.com/research-paper.php?id=27133
+
 Project Objective: To develop a sophisticated AI-powered fitness application for real-time form assessment during bicep curls.
 Key Features:
 - Pose Estimation: Leveraging the powerful Mediapipe library for precise tracking of shoulder, elbow, and wrist positions.
@@ -6,3 +8,4 @@ Key Features:
 - User Interface: Offering an intuitive, user-friendly interface to enhance engagement and motivation.
 
 (This was for my final year project during my btech.) 
+
